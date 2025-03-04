@@ -6,8 +6,8 @@ import time
 import MetaTrader5 as mt5
 
 # Konfigurasi Email
-EMAIL = "canihaveurn@gmail.com"  # Ganti dengan email Anda
-PASSWORD = "wxlq dzrs jins aizn"      # Ganti dengan password atau App Password
+EMAIL = "youremail"  # Ganti dengan email Anda
+PASSWORD = "yourpassword"      # Ganti dengan password atau App Password
 IMAP_SERVER = "imap.gmail.com"  # Ganti jika menggunakan penyedia email lain
 
 # Konfigurasi MetaTrader5
